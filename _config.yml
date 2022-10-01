@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Academic Website of Xiaohuan Lyu
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Xiaohuan (Joann) Lyu (吕宵欢）
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "PhD Candidate at TU Delft  | Work on the project "Collaboration for a Resilient and Decarbonized Maritime and Port Transportation" | Passionate about Physical Internet in the domain of maritime transportation and logistics"
+  email: X.Lyu-1@tudelft.nl
   # Do not include the @ symbol in your Twitter username
   twitter: laderast
-  linkedin: #username
+  linkedin: Xiaohuan Lyu
   github: laderast
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
